@@ -1,8 +1,8 @@
 # Original model comparison preparation
 
-Status: **PREPARATION ONLY — no actual model experiment has been executed.**
+Status: **Four real UI runs recorded on 2026-10-26. Course compliance and final submission remain unverified.** See [OBSERVATIONS.md](OBSERVATIONS.md) and [observed-results.json](observed-results.json).
 
-This independent, standard-library Python tool records real responses obtained separately. It does not call any API, use credentials, validate course requirements, or represent a completed assignment. No lecture slides, distributed notebooks, or assignment text were used to create it.
+This independent, standard-library Python tool records real responses obtained separately. It does not call any API, use credentials, validate course requirements, or represent a completed assignment. Four responses were subsequently obtained through Google AI Studio's UI without selecting an API key. No lecture slides, distributed notebooks, or assignment text were used to create this work.
 
 ## Use
 
@@ -33,7 +33,6 @@ Tests use explicitly synthetic fixtures in temporary directories. Test fixtures 
 
 ## Remaining work
 
-- Select an authorized service, models, supported temperature settings and any spending limit.
-- Execute real requests and record actual outputs.
-- Personally inspect the outputs and write truthful observations; none are supplied here.
+- Review the four recorded UI outputs and the factual observations supplied separately.
+- Personally inspect the outputs and add only your own truthful reflection, if required.
 - Personally check the course instructions and submission requirements. Final submission has not occurred.
